@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/praffuls/ikea-new-15-oct/language-masters/en:/",
+    "/content/praffuls/ikea-new-15-oct/language-masters/en/:/en/",
+    "/content/praffuls/ikea-new-15-oct/configuration:/.helix/config.json",
+    "/content/praffuls/ikea-new-15-oct/metadata:/metadata.json",
+    "/content/praffuls/ikea-new-15-oct/redirects:/redirects.json",
+    "/content/praffuls/ikea-new-15-oct/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/praffuls/ikea-new-15-oct/",
+    "/content/dam/praffuls/ikea-new-15-oct/"
   ]
 }
